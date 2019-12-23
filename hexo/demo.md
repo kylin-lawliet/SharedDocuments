@@ -2,7 +2,7 @@
 title: 文章格式示例
 date: 2019-12-23 10:24:34
 tags: [hexo] #标签
-categories: 笔记 #分类
+categories: hexo笔记 #分类
 favorite: hexo #收藏夹
 top: true #置顶 true或者1
 original: false #是否显示文末版权信息
@@ -18,7 +18,7 @@ permalink: demo
 ## 标题排版 标题二 
 ### 标题排版 标题三
 ##### 标题排版 标题四
-> 1. 该文章的[md文件地址][1]整理完成后上传
+> 1. 该文章的[源文件地址][1]仓库文件夹路径:/hexo/demo.md
 
 ## 内容排版
 2. 无样式
@@ -71,7 +71,7 @@ function admin(e) {
 
 
 [0]:https://www.kylin-blackcat.com/
-[1]:https://www.kylin-blackcat.com/
+[1]:https://github.com/kylin-lawliet/SharedDocuments/
 
 
 
